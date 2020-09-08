@@ -1,0 +1,395 @@
+{
+  "words": [
+    {
+      "word": "Shadow",
+      "weight": 7,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Dragon",
+      "weight": 6,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "War",
+      "weight": 6,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Night",
+      "weight": 5,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Dead",
+      "weight": 5,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "City",
+      "weight": 5,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Dark",
+      "weight": 5,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Blood",
+      "weight": 5,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Magic",
+      "weight": 5,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "World",
+      "weight": 4,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Fire",
+      "weight": 4,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Dream",
+      "weight": 4,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Wolf",
+      "weight": 4,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Black",
+      "weight": 4,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "King",
+      "weight": 4,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Lord",
+      "weight": 4,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Book",
+      "weight": 4,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Light",
+      "weight": 3,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Moon",
+      "weight": 3,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Time",
+      "weight": 3,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Last",
+      "weight": 3,
+      "noun": false,
+      "adj": true
+    },
+    {
+      "word": "God",
+      "weight": 3,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Star",
+      "weight": 2,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Storm",
+      "weight": 2,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Heart",
+      "weight": 2,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Demon",
+      "weight": 2,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Red",
+      "weight": 2,
+      "noun": false,
+      "adj": true
+    },
+    {
+      "word": "Blue",
+      "weight": 2,
+      "noun": false,
+      "adj": true
+    },
+    {
+      "word": "Hunt",
+      "weight": 2,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Knight",
+      "weight": 2,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Gate",
+      "weight": 2,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Man",
+      "weight": 2,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Gold",
+      "weight": 2,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Sword",
+      "weight": 2,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Wizard",
+      "weight": 2,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Mage",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Witch",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Hunter",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Thief",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Warrior",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Soldier",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Assassin",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Magician",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Saint",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Prophet",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Monster",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Beast",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Lion",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Creature",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Light",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Hell",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Heaven",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Angel",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Star",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Space",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Sky",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Queen",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Lady",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Eye",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Hand",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Head",
+      "weight": 1,
+      "noun": true,
+      "adj": false
+    },
+    {
+      "word": "Water",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Earth",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    },
+    {
+      "word": "Air",
+      "weight": 1,
+      "noun": true,
+      "adj": true
+    }
+  ],
+  "templates": [
+    "The _ADJ_ _NOUN_ of _NOUN_", 
+    "The _NOUN_ of the _ADJ_ _NOUN_",
+    "_ADJ_ _NOUN_ of the _ADJ_ _NOUN_",
+    "_ADJ_ _NOUN_: _NOUN_ of the _ADJ_ _NOUN_",
+    "_ADJ_ _NOUN_: _ADJ_ _NOUN_ of the _ADJ_ _NOUN_"
+  ]
+}
